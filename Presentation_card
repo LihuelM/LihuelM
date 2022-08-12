@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentation card</title>
+    <link rel="stylesheet" href="css/Presentacion.css" />
+</head>
+<body>
+    <section>
+        <div class="card">
+          <img src="https://th.bing.com/th/id/OIP.IkVGd2K48LGoJJ7qo4vXeAHaEt?pid=ImgDet&rs=1" alt="https://th.bing.com/th/id/OIP.IkVGd2K48LGoJJ7qo4vXeAHaEt?pid=ImgDet&rs=1">
+          <div class="infomacionPersonal"> 
+            <p> Lihuel Muracciole</p>
+            <p> Trainee Fullstack Developer</p>
+          </div>
+          <div class="avatar">
+            <img src="https://lh3.googleusercontent.com/a-/AOh14GjiuIZhV2jaQQLjtG__-3FmchrXXsJMlwGXzVH1wlQ=s288-p-rw-no"alt="https://lh3.googleusercontent.com/a-/AOh14GjiuIZhV2jaQQLjtG__-3FmchrXXsJMlwGXzVH1wlQ=s288-p-rw-no">
+          </div>
+          <div class="socialmedia">
+            <a [href]="https://www.linkedin.com/in/a-lihuel-muracciole-89088a96/"><img class="Ln" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-128.png"></a>
+            <a [href]="https://www.instagram.com/lii_muracciole/"><img class="Ig" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-128.png"></a>    
+            <a [href]="https://github.com/LihuelM"><img class="GitH" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png"></a>
+          </div>
+    </section>
+</body>
+</html>

@@ -1,6 +1,7 @@
-# Welcome!
+:star2: # Welcome! :star2:
 
  Hi, I'm Lihuel Muracciole from Argentina. 👋🏼
+ 
  I studied industrial engineering 🎓 and have worked in industrial logistics for over a decade. 🏭
 
 I am currently learning full stack developer:

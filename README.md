@@ -1,4 +1,4 @@
-:star2: # Welcome! :star2:
+ # Welcome!
 
  Hi, I'm Lihuel Muracciole from Argentina. 👋🏼
  

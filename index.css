@@ -1,0 +1,61 @@
+body  {
+      font-size: 62,5%;
+      background-color: rgb(10, 10, 10);
+}
+#section{
+   width: 62,5%;
+   display: flex;
+   justify-content: center;
+}
+.card {
+   width: 400px;
+   height: 500px;
+   background: #1F618D ;
+   border-radius: 20px;
+   overflow: hidden;
+   position: relative;
+}
+.card img {
+   width: 100%;
+} 
+.infomacionPersonal p {
+   text-align: center;
+}
+.infomacionPersonal p:nth-child(1){
+   color: white;
+   font-family: Ink Free;
+   text-shadow: 1px 3px #AEB6BF;
+   margin-top: 5rem;
+   font-size: 2rem;
+}
+.infomacionPersonal p:nth-child(2){
+   color: white;
+   font-family: Ink Free;
+   margin-top: -1.5rem;
+   font-size: 1.6rem;
+}
+.avatar {
+   display: flex;
+   justify-content: center;
+   position: fixed;
+}
+.avatar img {
+   height: 140px;
+   border-radius: 50%;
+   border: 3px solid white;
+   position: relative;
+   top: -17rem;
+   margin-left: 8rem ;
+}
+.socialmedia {
+   display: flex;
+   justify-content: center;
+   position: relative;
+   bottom: 10px;
+   padding: 6px;
+}
+.socialmedia img{
+   display: flex;
+   height: 3em;
+   padding: 2px;
+}

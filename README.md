@@ -6,7 +6,7 @@
 
 I am currently learning full stack developer:
 
-![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn1.iconfinder.com/data/icons/bootstrap/16/bootstrap-32.png "bootstrap") ![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-32.png "Typescript") ![Angular](https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-32.png "Angular") ![basededatos](https://cdn0.iconfinder.com/data/icons/Hosting_Icons/32/database-px-png.png "basededatos")   ![mysql](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-32.png "mysql")
+![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap]([https://cdn1.iconfinder.com/data/icons/bootstrap/16/bootstrap-32.png "bootstrap"](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/32/boostrap-32.png) ![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-32.png "Typescript") ![Angular](https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-32.png "Angular") ![basededatos](https://cdn0.iconfinder.com/data/icons/Hosting_Icons/32/database-px-png.png "basededatos")   ![mysql](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-32.png "mysql")
 
 
 Some tools:

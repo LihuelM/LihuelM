@@ -6,7 +6,7 @@ I studied industrial engineering and after almost 10 years of learning and devel
 
 I am currently studying a program with a Full Stack profile, taking my first steps with:
 
-![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-32.png) ![Typescript](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-32.png "Typescript") ![Angular](https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-32.png "Angular") 
+![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-32.png)
 
 
 Some tools:

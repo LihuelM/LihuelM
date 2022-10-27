@@ -34,10 +34,13 @@ En busca de la fusión, entre la pasión y la profesión...
 Te invito a que veas mi progreso en los repositorios, y si quieres... darte una vuelta por mi portfolio!!
 
 
-**How to contact me:**
+**Como contactarme...**
 
 ![image](https://user-images.githubusercontent.com/110037132/198204899-427e9bb5-8db7-4324-bb96-d8a7cc8ecf17.png)     muracciole.al@gmail.com
 
 ![image](https://user-images.githubusercontent.com/110037132/198205358-82ab61fe-5b9b-48c6-b818-4bd0a61a5250.png)     +54 9 351 681 1605 - para Whatsapp
 
 ![image](https://user-images.githubusercontent.com/110037132/198205594-84e81494-f931-428d-aa78-839a85fa507f.png) [LinkedIn Lihuel Muracciole](https://www.linkedin.com/in/a-lihuel-muracciole-89088a96/ "LinkedIn Lihuel Muracciole")
+
+
+Que tengas lindo dia! =)

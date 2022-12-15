@@ -4,7 +4,7 @@
 
 Estudie Ingeniería Industrial, trabajando en logistica durante casi 10 años, hasta que decidí dar un giro a mi carrera.
 
-A fines de 2021, el Ministerio de Desarrollo Argentino, lanzó un bootcamp de programación con perfil Full Stack, al cual no dude inscribirme. Hasta que arrancó el programa, comencé a estudiar de forma asincrónica en distinas plataformas (EDTeam, Platzi, OpenBootcamp), prácticas que hasta hoy, las sigo llevando a cabo. 
+A fines de 2021, el Ministerio de Desarrollo Argentino, lanzó un bootcamp de programación con perfil Full Stack, al cual no dude inscribirme. Hasta que arrancó el programa, comencé a estudiar de forma asíncrona en distinas plataformas (EDTeam, Platzi, OpenBootcamp), prácticas que hasta hoy, las sigo llevando a cabo. 
 
 Las tecnologías que manejo son:
 

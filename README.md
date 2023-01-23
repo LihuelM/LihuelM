@@ -6,13 +6,13 @@ Estudie Ingeniería Industrial, trabajando en logistica durante casi 10 años, h
 
 A fines de 2021, el Ministerio de Desarrollo Argentino, lanzó un bootcamp de programación con perfil Full Stack, al cual no dude inscribirme. Hasta que arrancó el programa, comencé a estudiar de forma asíncrona en distinas plataformas (EDTeam, Platzi, OpenBootcamp), prácticas que hasta hoy, las sigo llevando a cabo. 
 
-Las tecnologías que manejo son:
+Las tecnologías con las cuales trabajo actualmente son:
 
 ![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-32.png) ![sass](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-32.png "sass") ![PUG](https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-32.png "PUG")
 
 
 -------------
-Algunas herramientas útiles que utilizo son:
+Algunas herramientas que utilizo son:
 
 ![git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-32.png "git")![figma](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-32.png "figma")![wordpress](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_wordpress-32.png "wordpress") ![elementor](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/elementor-32.png "elementor") ![microsoft](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-32.png "microsoft") ![notion](https://cdn1.iconfinder.com/data/icons/radix/15/notion-logo-32.png "notion") 
 
@@ -24,6 +24,7 @@ Actualmente me dedico a:
 * Aplicando el aprendizaje de software de control de versiones, a cada proyecto.
 * Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 * Continuando mi desarrollo con Frameworks y Librerías de JavaScript.
+* Realizar mis prácticas en proyectos reales mediante ID for Ideas.
 
 
 En busca de la fusión, entre la pasión y la profesión...

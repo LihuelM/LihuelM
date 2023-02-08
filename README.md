@@ -8,7 +8,7 @@ A fines de 2021, el Ministerio de Desarrollo Argentino, lanzó un bootcamp de pr
 
 Las tecnologías con las cuales trabajo actualmente son:
 
-![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-32.png) ![sass](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-32.png "sass") ![PUG](https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-32.png "PUG")
+![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/32/HTML_Logo.png "HTML") ![css](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-32.png) ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-32.png) ![bootstrap](https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-32.png) ![sass](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-32.png "sass") ![PUG](https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-32.png "PUG") ![React](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-32.png "React")
 
 
 -------------
@@ -20,12 +20,11 @@ Algunas herramientas que utilizo son:
 --------------
 
 Actualmente me dedico a:
+* Desarrollar experiencia como Frontend en un hermoso equipo multidisciplinario en ID for Ideas. 
 * Reforzar conocimientos sobre el stack tecnológico adquirido.
 * Aplicando el aprendizaje de software de control de versiones, a cada proyecto.
 * Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
-* Continuando mi desarrollo con Frameworks y Librerías de JavaScript.
-* Realizar mis prácticas en proyectos reales mediante ID for Ideas.
-
+* Continuar mi desarrollo con Frameworks y Librerías de JavaScript.
 
 En busca de la fusión, entre la pasión y la profesión...
 

@@ -1,10 +1,11 @@
  # Buenas!!!
+ Mi nombre es Lihuel Muracciole, 
 
- Mi nombre es Lihuel Muracciole, soy de Argentina. 👋🏼
+Con una formación en Ingeniería Industrial y casi una década de experiencia en diversas áreas de la cadena de suministro en industrias internacionales, decidí explorar nuevos horizontes y cambiar de rumbo. Siguiendo el lema "la vida comienza al final de tu zona de confort", me lancé al mundo del desarrollo de software. Desde entonces, me he especializado en desarrollo frontend, combinando mi sólida base técnica con un enfoque creativo para construir experiencias de usuario atractivas y funcionales.
 
-Estudie Ingeniería Industrial, trabajando en logistica durante casi 10 años, hasta que decidí dar un giro a mi carrera.
+Actualmente trabajo en una empresa especializada en la gestión integral de eCommerce, manejando plataformas como VTEX, PrestaShop, WordPress, entre otras. Mi rol principal hoy es brindar soporte técnico en el frontend, donde desarrollo y optimizo la parte visual y estructural de sitios y aplicaciones web, mejorando la usabilidad y la experiencia del usuario. Desde la gestión, ejecución y validación de requerimientos en cada proyecto, me aseguro de que se desarrollen de manera eficiente y cumplan con los estándares de calidad en las etapas frontend.
 
-A fines de 2021, el Ministerio de Desarrollo Argentino, lanzó un bootcamp de programación con perfil Full Stack, al cual no dude inscribirme. Hasta que arrancó el programa, comencé a estudiar de forma asíncrona en distinas plataformas (EDTeam, Platzi, OpenBootcamp), prácticas que hasta hoy, las sigo llevando a cabo. 
+Mi experiencia incluye el desarrollo de interfaces de usuario (UI), la integración de APIs, y la construcción de estructuras lógicas para aplicaciones web, con la finalidad de ofrecer soluciones innovadoras y funcionales. Cada proyecto trae nuevos desafíos y oportunidades, lo que me impulsa a seguir explorando. Estoy entusiasmado por seguir creciendo y ver lo que el futuro me depara en este campo.
 
 Las tecnologías con las cuales trabajo actualmente son:
 
@@ -16,17 +17,6 @@ Algunas herramientas que utilizo son:
 
 ![git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-32.png "git")![figma](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-32.png "figma")![wordpress](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_wordpress-32.png "wordpress") ![elementor](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/elementor-32.png "elementor") ![microsoft](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-32.png "microsoft") ![notion](https://cdn1.iconfinder.com/data/icons/radix/15/notion-logo-32.png "notion") 
 
-
---------------
-
-Actualmente me dedico a:
-* Desarrollar experiencia como Frontend en un hermoso equipo multidisciplinario en ID for Ideas. 
-* Reforzar conocimientos sobre el stack tecnológico adquirido.
-* Aplicando el aprendizaje de software de control de versiones, a cada proyecto.
-* Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
-* Continuar mi desarrollo con Frameworks y Librerías de JavaScript.
-
-En busca de la fusión, entre la pasión y la profesión...
 
 --------------
 

@@ -22,7 +22,7 @@ Algunas herramientas que utilizo son:
 
 Te invito a que veas mi progreso en los repositorios, y si quieres... darte una vuelta por mi portfolio!!
 
- ![portfolio](https://cdn0.iconfinder.com/data/icons/education-712/135/27-32.png)[Portfolio](http://https://lihuelm.github.io/Animation-Portfolio/ "Portfolio")
+ ![portfolio](https://cdn0.iconfinder.com/data/icons/education-712/135/27-32.png)[Portfolio](https://lihuelm.github.io/Animation-Portfolio/)
 
 **Como contactarme...**
 
@@ -30,7 +30,7 @@ Te invito a que veas mi progreso en los repositorios, y si quieres... darte una 
 
   ![image](https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-09-32.png)     +54 9 351 681 1605 - para Whatsapp
 
-![image](https://cdn4.iconfinder.com/data/icons/social-media-2657/512/46_LinkedIn_Social_Network_Logo_Brands_Social_Badge_Networks-32.png )  [LinkedIn Lihuel Muracciole](https://www.linkedin.com/in/a-lihuel-muracciole-89088a96/ "LinkedIn Lihuel Muracciole")
+![image](https://cdn4.iconfinder.com/data/icons/social-media-2657/512/46_LinkedIn_Social_Network_Logo_Brands_Social_Badge_Networks-32.png )  [LinkedIn Lihuel Muracciole](https://www.linkedin.com/in/lihuel-muracciole/)
 
 
 Que tengas lindo dia! =)

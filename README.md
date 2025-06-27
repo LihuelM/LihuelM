@@ -18,7 +18,9 @@ Te invito a que veas mi progreso en los repositorios, y si quieres... darte una 
 **Como contactarme...**
 
 Correo: muracciole.al@gmail.com
+
 Cel: +54 9 351 681 1605 - para Whatsapp
+
 [LinkedIn Lihuel Muracciole](https://www.linkedin.com/in/lihuel-muracciole/)
 
 
